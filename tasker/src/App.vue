@@ -19,7 +19,7 @@ export default {
 </script>
 <style lang="scss">
 @import "./assets/custom.scss";
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "~bootstrap/scss/bootstrap";
 body {
   padding-top: 75px;
   padding-bottom: 60px;
